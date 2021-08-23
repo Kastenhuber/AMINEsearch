@@ -1,0 +1,4 @@
+Cas_ortholog	PAM	gRNA_Length
+Sp Cas9	"NGG,NAG,NGA"	20
+xCas9	"NGN,GAT,GAA"	20
+Sc Cas9	NNG	20
