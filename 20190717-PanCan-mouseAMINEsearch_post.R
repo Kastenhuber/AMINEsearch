@@ -1,4 +1,4 @@
-#Deamination Induced Cutting-free Kmer word-based sg search
+#AMINEsearch (Annotated Mutation-Informed Nucleotide Editing sgRNA search)
 #setup packages
 #one-time only. installs the human genome (~850 MB download).
 if (FALSE){source("http://www.bioconductor.org/biocLite.R")
