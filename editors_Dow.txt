@@ -1,1 +1,0 @@
-Editor	window_start	window_end	BEAPOBEC	4	8	CT|GA2X	4	11	CT|GA
