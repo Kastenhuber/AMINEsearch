@@ -1,0 +1,3 @@
+Editor	window_start	window_end	BE
+FNLS	4	8	CT|GA
+F2X	4	11	CT|GA
